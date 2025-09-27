@@ -4,21 +4,21 @@
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red.svg)](https://www.raspberrypi.org/)
 
-## 🎯 Overview
+##  Overview
 
 A portable, affordable IoT-based assistive device that bridges communication barriers for the deaf and mute community in India by translating **Indian Sign Language (ISL)** into text and speech in real-time. This solution operates completely offline, making it accessible even in areas with poor internet infrastructure.
 
-## ✨ Key Features
+##  Key Features
 
-- **🇮🇳 ISL-Specific**: Built specifically for Indian Sign Language, not ASL
-- **📱 Offline Operation**: No internet connectivity required
-- **💰 Affordable**: Cost-effective alternative to expensive wearables
-- **🎒 Portable**: Compact design powered by Raspberry Pi
-- **⚡ Real-time**: Instant gesture recognition and speech output
-- **🔊 Clear Audio**: High-quality text-to-speech conversion
-- **🏥 Versatile**: Suitable for education, healthcare, and professional environments
+- ** ISL-Specific**: Built specifically for Indian Sign Language, not ASL
+- ** Offline Operation**: No internet connectivity required
+- ** Affordable**: Cost-effective alternative to expensive wearables
+- ** Portable**: Compact design powered by Raspberry Pi
+- ** Real-time**: Instant gesture recognition and speech output
+- ** Clear Audio**: High-quality text-to-speech conversion
+- ** Versatile**: Suitable for education, healthcare, and professional environments
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Hardware**: Raspberry Pi, USB Camera, Speaker
 - **Computer Vision**: Lightweight CV models optimized for edge computing
@@ -26,7 +26,7 @@ A portable, affordable IoT-based assistive device that bridges communication bar
 - **Processing**: Real-time gesture analysis and classification
 - **Audio Output**: Integrated text-to-speech synthesis
 
-## 🎯 Target Audience
+##  Target Audience
 
 - Deaf and mute individuals using Indian Sign Language
 - Caregivers and family members
@@ -34,7 +34,7 @@ A portable, affordable IoT-based assistive device that bridges communication bar
 - Healthcare providers
 - Social service organizations
 
-## 🌟 Impact
+##  Impact
 
 This device empowers ISL users by:
 - Reducing social exclusion and communication barriers
@@ -43,7 +43,7 @@ This device empowers ISL users by:
 - Promoting independence and confidence
 - Bridging the gap between the deaf/mute community and hearing individuals
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Indian deaf and mute community for feedback and testing
 - ISL research organizations for gesture datasets
@@ -82,4 +82,4 @@ python main.py
 
 ---
 
-**Making communication accessible for everyone, one gesture at a time.** 🤟
+**Making communication accessible for everyone, one gesture at a time.** 
