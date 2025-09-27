@@ -9,12 +9,12 @@ A portable, affordable IoT-based assistive device that bridges communication bar
 ##  Key Features
 
 - ISL-Specific: Built specifically for Indian Sign Language, not ASL
-- ** Offline Operation**: No internet connectivity required
-- ** Affordable**: Cost-effective alternative to expensive wearables
-- ** Portable**: Compact design powered by Raspberry Pi
-- ** Real-time**: Instant gesture recognition and speech output
-- ** Clear Audio**: High-quality text-to-speech conversion
-- ** Versatile**: Suitable for education, healthcare, and professional environments
+- Offline Operation: No internet connectivity required
+- Affordable: Cost-effective alternative to expensive wearables
+- Portable: Compact design powered by Raspberry Pi
+- Real-time: Instant gesture recognition and speech output
+- Clear Audio: High-quality text-to-speech conversion
+- Versatile: Suitable for education, healthcare, and professional environments
 
 ##  Technology Stack
 
